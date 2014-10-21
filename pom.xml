@@ -69,6 +69,7 @@
     <module>rackspace-cloudfiles-uk</module>
     <module>rackspace-cloudfiles-us</module>
     <module>rackspace-cloudnetworks-us</module>
+    <module>openstack-ceilometer</module>
   </modules>
 
   <profiles>
